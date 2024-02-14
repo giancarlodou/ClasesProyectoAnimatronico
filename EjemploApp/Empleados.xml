@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEmpleado xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Empleado>
+    <name>Gc</name>
+    <salary>0</salary>
+    <medic_condition>false</medic_condition>
+  </Empleado>
+  <Empleado>
+    <name>Mitsuki</name>
+    <salary>0</salary>
+    <medic_condition>false</medic_condition>
+  </Empleado>
+</ArrayOfEmpleado>
